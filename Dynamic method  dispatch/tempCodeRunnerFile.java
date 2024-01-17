@@ -1,0 +1,2 @@
+obj.greet();
+        // obj.name();
